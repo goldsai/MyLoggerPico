@@ -2,7 +2,7 @@
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
 #include <tusb.h>
-
+// git push -u origin main
 // Определение GPIO для параллельного интерфейса AD7606
 #define ADC_FRST_GPIO       22          // First
 #define ADC_CS_GPIO         21          // Chip Select
